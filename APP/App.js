@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>version !!!!!10!!0</Text>
+        <Text>version 101</Text>
       </View>
     );
   }
